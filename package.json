@@ -1,0 +1,23 @@
+{
+  "name": "apimeteo",
+  "version": "1.0.0",
+  "description": "Api meteo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "AK",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "geolocation": "^0.2.0",
+    "localiser": "^1.0.1",
+    "localize": "^0.4.7",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.2",
+    "unirest": "^0.6.0"
+  }
+}
