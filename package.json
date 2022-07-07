@@ -16,7 +16,7 @@
     "geolocation": "^0.2.0",
     "localiser": "^1.0.1",
     "localize": "^0.4.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nodemon": "^2.0.2",
     "unirest": "^0.6.0"
   }
